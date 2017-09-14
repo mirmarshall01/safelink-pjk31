@@ -29,10 +29,10 @@ var a_to_vj=document.getElementById("anonyminized");
 var a_to_vk=document.getElementById("found_links");
 
 if(a_to_vj){
-  a_to_vb;
+  a_to_vj.innerHTML+=a_to_vb;
 }
 if(a_to_vk){
-  a_to_va;
+  a_to_vk.innerHTML+=a_to_va;
 }
 }
 
